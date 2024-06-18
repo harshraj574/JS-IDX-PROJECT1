@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+# JS-IDX-PROJECT1A simple HTML/JS/CSS starter template
